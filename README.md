@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaithamAhmed01
+- 👋 Hi, I’m Haitham Ahmed
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning Flutter
 
