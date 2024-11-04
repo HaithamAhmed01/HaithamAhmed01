@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haitham Ahmed</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Saudi Arabia, Riyadh</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
