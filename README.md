@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" />
 </div>
 
-<div  style="hight: 20px;">
+<div  style="height: 20px;">
 
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haithamahmed01&show_icons=true&locale=en&layout=compact" alt="haithamahmed01" /></p>
